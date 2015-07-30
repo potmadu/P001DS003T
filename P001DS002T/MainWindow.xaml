@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:P001DS002T"
         mc:Ignorable="d"
-        Title="MainWindow" Height="564" Width="700" WindowStyle="SingleBorderWindow">
+        Title="Video Timeline" Height="564" Width="700" WindowStyle="SingleBorderWindow">
     <Grid>
         <Grid>
             <Grid.RowDefinitions>
